@@ -4,6 +4,18 @@ A library created for educational purposes that includes a service returning a p
 
 Usage
 ------------
+
+Add maven dependency:
+~~~xml
+	<dependencies>
+		<dependency>
+			<groupId>com.example</groupId>
+			<artifactId>springbootlibrarysample</artifactId>
+			<version>1.1.0</version>
+		</dependency>
+	</dependencies>
+~~~
+
 Add the following to your application config:
 ~~~yml
 service:
